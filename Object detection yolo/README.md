@@ -5,18 +5,16 @@ What is Object Detection and classification?
 
 Object Detection is a computer vision task which gives the machine an ability to detect the instances of object present in an image or a video. This technique tells the exact location of the visual object(s). 
 
-Let's understand the whole concept of object detection using an image.
+Tools and softwares required for this project.
 
-<img src="image.jpg" width=60% height=50%>
+Python (Download Link-https://www.python.org/downloads/)
 
-In the above image the major objects that we can detect through our naked eyes are:-
-a) A Dog
-b) A bicycle
-c) A truck
+OpenCV (Download Link - https://opencv.org/releases/)
 
-So when the process of Detecting and classifying the objects in the above picture is performed by the computer, this process is called object detection and classification.
+Yolo Configuration and Weights file (Download Link - https://pjreddie.com/darknet/yolo/)
 
-The following is the output that the machine will provide us with after performing the object detection and classification task.
+COCO Dataset (Download Link-https://cocodataset.org/#home)
 
-<img src="out" width=60% height=50%>
+Python IDE (Spyder recommended) (Download Link-https://www.anaconda.com/products/individual)
 
+DarkNet Framework (Git Repository-https://github.com/pjreddie/darknet)
